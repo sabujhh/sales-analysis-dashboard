@@ -15,6 +15,9 @@ This project is a Power BI dashboard built from a retail sales dataset. The goal
 ### **Period-to-Period Comparison**
 ![Date Comparison](https://github.com/sabujhh/sales-analysis-dashboard/blob/main/images/date_filter.png)
 
+### **Order-Level Details With Filters**
+![Order Table With Filters](https://github.com/sabujhh/sales-analysis-dashboard/blob/main/images/filters.png)
+
 ---
 
 ## 🔍 What the Dashboard Shows
