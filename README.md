@@ -69,16 +69,19 @@ A simple KPI card showing total orders in the dataset.
 
 ---
 
-### **7. Detailed Order Table**
-A clean table that lists:
+### **7. Detailed Order Table With Filters**
+A full order-level table showing:
 - Net Sales  
 - Profit  
 - Discount  
-- Customer ID  
+- Quantity  
 - Product details  
-- Other order-level information  
+- Customer details  
+- Promotion category  
+- Date and order information  
 
-All fields can be filtered using slicers for date, product, customer ID, and promotion categories.
+Three slicers (Customer Name, Product Name, Promotion Name) are available at the top to quickly filter the table and review specific transaction groups.
+
 
 ---
 
