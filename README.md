@@ -13,7 +13,7 @@ This project is a Power BI dashboard built from a retail sales dataset. The goal
 ![Sales by City and Trends](https://github.com/sabujhh/sales-analysis-dashboard/blob/main/images/sales_details.png)
 
 ### **Period-to-Period Comparison**
-![Date Comparison][(images/snapshot3.png)](https://github.com/sabujhh/sales-analysis-dashboard/blob/main/images/date_filter.png)
+![Date Comparison](https://github.com/sabujhh/sales-analysis-dashboard/blob/main/images/date_filter.png)
 
 ---
 
